@@ -184,6 +184,18 @@ Open an issue or PR.
 
 ---
 
+## Validation Reports
+
+Independent validation of repository claims:
+
+- **[Validation Summary](VALIDATION_SUMMARY.md)** — Quick reference with claim verification status
+- **[Validation Report](VALIDATION_REPORT.md)** — Comprehensive analysis with evidence assessment
+- **[Information Tree](INFORMATION_TREE.md)** — Claim-by-claim evidence mapping
+
+These reports provide independent verification of data sources, file counts, and claims made in this repository.
+
+---
+
 ## Related
 
 - [OFAC Venezuela Sanctions](https://www.treasury.gov/resource-center/sanctions/Programs/pages/venezuela.aspx)
